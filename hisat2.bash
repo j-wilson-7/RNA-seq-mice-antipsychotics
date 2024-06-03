@@ -1,4 +1,4 @@
-#HISAT2 example run
+#HISAT2 run
 
 #!/bin/bash
 
